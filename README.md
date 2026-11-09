@@ -79,6 +79,7 @@ While other directories dump 26,849+ AI tools on you, we focus on **quality cura
 | Tool | Description | Category | Website |
 |------|-------------|----------|---------|
 | **Runway ML** | Professional AI video generation and editing platform | Video Generation | [runwayml.com](https://runwayml.com) |
+| **Cyanvid** | AI video generator from text or images; credit quotes before generate | Video Generation | [cyanvid.com](https://cyanvid.com/?utm_source=thebesttoolsai-awesome-ai-tools-curated&utm_medium=directory&utm_campaign=backlinks) |
 | **Pika Labs** | Text-to-video AI generation tool | Video Generation | [pika.art](https://pika.art) |
 | **Synthesia** | AI avatar video creation platform | Avatar Videos | [synthesia.io](https://synthesia.io) |
 | **Luma Dream Machine** | AI-powered 3D video generation | 3D Video | [lumalabs.ai](https://lumalabs.ai) |
